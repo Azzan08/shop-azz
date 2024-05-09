@@ -1,0 +1,40 @@
+.logo-nav{
+    height: 58px;
+}
+.banner{
+    height: 280px;
+    margin: 40px;
+}
+.card{
+    margin: 100px;
+    display: block;
+    border: 3px solid white;
+}
+
+}
+.card-flex{
+    display: flex;
+    background-color: antiquewhite;
+}
+.card-body{
+    background-color: azure;
+}
+.qstn{
+    margin: 150px;
+    font-family: 'Rimon Dustin', sans-serif;
+    font-size: 80px;                                          
+}
+.des{
+    margin: 35px;
+    font-family: "Quicksand", sans-serif;
+}
+.rimon{
+    margin: 69px;
+}
+.foot{
+    margin: 120px;
+}
+.gap-1{
+    margin: 25px;s
+}
+
